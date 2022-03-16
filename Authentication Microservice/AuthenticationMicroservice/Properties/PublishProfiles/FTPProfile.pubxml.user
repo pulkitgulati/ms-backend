@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftps://waws-prod-am2-469.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>True|2022-01-31T12:31:14.0114293Z;False|2022-01-31T17:59:48.8883581+05:30;True|2022-01-31T17:43:52.3865294+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>01/28/2022 13:03:56</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>01/28/2022 13:03:56</publishTime>
+    </File>
+    <File Include="AuthenticationMicroservice.BusinessLogic.dll">
+      <publishTime>01/31/2022 17:35:44</publishTime>
+    </File>
+    <File Include="AuthenticationMicroservice.BusinessLogic.pdb">
+      <publishTime>01/31/2022 17:35:44</publishTime>
+    </File>
+    <File Include="AuthenticationMicroservice.DAL.dll">
+      <publishTime>01/31/2022 17:35:43</publishTime>
+    </File>
+    <File Include="AuthenticationMicroservice.DAL.pdb">
+      <publishTime>01/31/2022 17:35:43</publishTime>
+    </File>
+    <File Include="AuthenticationMicroservice.deps.json">
+      <publishTime>01/31/2022 18:00:48</publishTime>
+    </File>
+    <File Include="AuthenticationMicroservice.dll">
+      <publishTime>01/31/2022 18:00:48</publishTime>
+    </File>
+    <File Include="AuthenticationMicroservice.DTO.dll">
+      <publishTime>01/31/2022 17:35:42</publishTime>
+    </File>
+    <File Include="AuthenticationMicroservice.DTO.pdb">
+      <publishTime>01/31/2022 17:35:42</publishTime>
+    </File>
+    <File Include="AuthenticationMicroservice.exe">
+      <publishTime>01/31/2022 18:00:48</publishTime>
+    </File>
+    <File Include="AuthenticationMicroservice.pdb">
+      <publishTime>01/31/2022 18:00:48</publishTime>
+    </File>
+    <File Include="AuthenticationMicroservice.runtimeconfig.json">
+      <publishTime>01/31/2022 17:35:45</publishTime>
+    </File>
+    <File Include="FluentValidation.AspNetCore.dll">
+      <publishTime>12/13/2021 20:24:08</publishTime>
+    </File>
+    <File Include="FluentValidation.DependencyInjectionExtensions.dll">
+      <publishTime>12/13/2021 20:24:06</publishTime>
+    </File>
+    <File Include="FluentValidation.dll">
+      <publishTime>12/13/2021 20:24:04</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>01/20/2022 03:57:34</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>01/20/2022 03:59:28</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>01/20/2022 04:04:00</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/30/2020 01:44:12</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>10/16/2021 18:24:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>10/16/2021 18:24:36</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>10/16/2021 18:24:30</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>01/20/2022 03:56:14</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>01/31/2022 18:00:57</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

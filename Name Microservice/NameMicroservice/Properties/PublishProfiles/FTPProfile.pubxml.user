@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAw/fZTQ4RjUOfMEDfQ9NILQAAAAACAAAAAAADZgAAwAAAABAAAADBnGytkRU2yULldBp/8WH1AAAAAASAAACgAAAAEAAAAH9NsZA0Orn7ua2E4FDUONeAAAAATm2TYR/1jBsKEqrhhAf76I9uvzhKtBP8+964E5Xq6i06g6Cb3cLwJJ15IyYrzAYj65zRlDCFA+KwM37lZstATAkT78PubUVku7gMg7Jpv5sIoBT/SUxDJq0F+gXWgrgMVooWnO4uaV36v7343sNdWHjWB1u9x4wBKRByMhZUJn4UAAAAgKyOlkxKQp1/1jzc9tOCwfxymQ4=</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-am2-469.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>True|2022-03-04T14:26:50.3394267Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>01/28/2022 12:46:14</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>01/28/2022 12:46:14</publishTime>
+    </File>
+    <File Include="Azure.Core.Amqp.dll">
+      <publishTime>07/07/2021 01:00:30</publishTime>
+    </File>
+    <File Include="Azure.Core.dll">
+      <publishTime>11/04/2021 05:29:22</publishTime>
+    </File>
+    <File Include="Azure.Messaging.ServiceBus.dll">
+      <publishTime>11/11/2021 02:22:30</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Amqp.dll">
+      <publishTime>09/28/2021 04:48:58</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>09/13/2019 07:58:44</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/30/2020 01:44:12</publishTime>
+    </File>
+    <File Include="NameMicroservice.deps.json">
+      <publishTime>03/04/2022 19:54:20</publishTime>
+    </File>
+    <File Include="NameMicroservice.dll">
+      <publishTime>03/04/2022 19:54:20</publishTime>
+    </File>
+    <File Include="NameMicroservice.exe">
+      <publishTime>03/04/2022 19:54:20</publishTime>
+    </File>
+    <File Include="NameMicroservice.pdb">
+      <publishTime>03/04/2022 19:54:20</publishTime>
+    </File>
+    <File Include="NameMicroservice.runtimeconfig.json">
+      <publishTime>03/04/2022 19:54:11</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>08/17/2021 00:52:22</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 16:54:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 16:54:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 16:54:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>08/17/2021 00:52:26</publishTime>
+    </File>
+    <File Include="SharedAzureServiceBus.dll">
+      <publishTime>03/04/2022 19:54:03</publishTime>
+    </File>
+    <File Include="SharedAzureServiceBus.pdb">
+      <publishTime>03/04/2022 19:54:03</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>10/16/2021 18:24:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>10/16/2021 18:24:36</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>10/16/2021 18:24:30</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>08/17/2021 00:44:56</publishTime>
+    </File>
+    <File Include="System.Memory.Data.dll">
+      <publishTime>04/08/2021 22:15:54</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>03/04/2022 19:54:21</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

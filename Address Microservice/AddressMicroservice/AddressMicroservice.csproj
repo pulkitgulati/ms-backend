@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>c086e06d-3004-48f2-a26c-377d1b32f741</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\SharedAzureServiceBus\SharedAzureServiceBus.csproj" />
+    <ProjectReference Include="..\AddressMicroservice.BusinessLogic\AddressMicroservice.BusinessLogic.csproj" />
+    <ProjectReference Include="..\AddressMicroservice.DAL\AddressMicroservice.DAL.csproj" />
+    <ProjectReference Include="..\AddressMicroservice.DTO\AddressMicroservice.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

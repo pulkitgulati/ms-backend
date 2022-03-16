@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dff686ca-ae4b-475b-bbb2-b529ef697e4d": {
+      "ProjectGuid": "dff686ca-ae4b-475b-bbb2-b529ef697e4d",
+      "DisplayName": "SharedAzureServiceBus",
+      "ColorIndex": 0
+    },
+    "3a427b97-f2d1-41b1-8f52-4386835f691b": {
+      "ProjectGuid": "3a427b97-f2d1-41b1-8f52-4386835f691b",
+      "DisplayName": "ProfileMicroservice",
+      "ColorIndex": 1
+    },
+    "f34efef6-40af-499e-8e0d-ea143c3c8451": {
+      "ProjectGuid": "f34efef6-40af-499e-8e0d-ea143c3c8451",
+      "DisplayName": "ProfileMicroservice",
+      "ColorIndex": 2
+    },
+    "129fb8ce-c11a-4318-a18d-2a7a61c192e2": {
+      "ProjectGuid": "129fb8ce-c11a-4318-a18d-2a7a61c192e2",
+      "DisplayName": "NameMicroservice",
+      "ColorIndex": 3
+    },
+    "34e3e154-bfa5-4e9e-b66c-5938a48c1d8a": {
+      "ProjectGuid": "34e3e154-bfa5-4e9e-b66c-5938a48c1d8a",
+      "DisplayName": "AddressMicroservice",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7d9d36ea-d78e-4c82-bc20-915bf636626c": {
+      "ProjectGuid": "7d9d36ea-d78e-4c82-bc20-915bf636626c",
+      "DisplayName": "SharedRepository",
+      "ColorIndex": 5
+    },
+    "ff3e2faa-9a14-4931-9e88-af44e9a1e38b": {
+      "ProjectGuid": "ff3e2faa-9a14-4931-9e88-af44e9a1e38b",
+      "DisplayName": "SharedAzureServiceBus",
+      "ColorIndex": 6
+    },
+    "642d879e-c4b0-4f84-9c89-abef8edb4716": {
+      "ProjectGuid": "642d879e-c4b0-4f84-9c89-abef8edb4716",
+      "DisplayName": "EmailFunction",
+      "ColorIndex": 7
+    },
+    "695eb33b-68bc-4d3f-9f1f-334c50ec134b": {
+      "ProjectGuid": "695eb33b-68bc-4d3f-9f1f-334c50ec134b",
+      "DisplayName": "AuthenticationMicroservice",
+      "ColorIndex": 8
+    },
+    "b661b93c-bc01-43c7-a808-32a1f77f958f": {
+      "ProjectGuid": "b661b93c-bc01-43c7-a808-32a1f77f958f",
+      "DisplayName": "AuthenticationMicroservice.DTO",
+      "ColorIndex": 9
+    },
+    "cb36cc6d-4438-4468-918d-318a10f05479": {
+      "ProjectGuid": "cb36cc6d-4438-4468-918d-318a10f05479",
+      "DisplayName": "AuthenticationMicroservice.DTO",
+      "ColorIndex": 10
+    },
+    "c61bd389-0c7e-4d5c-86e6-6f0d364325df": {
+      "ProjectGuid": "c61bd389-0c7e-4d5c-86e6-6f0d364325df",
+      "DisplayName": "AuthenticationMicroservice.BusinessLogic",
+      "ColorIndex": 11
+    },
+    "a385cd82-0594-45c1-afb8-cc7202cedf70": {
+      "ProjectGuid": "a385cd82-0594-45c1-afb8-cc7202cedf70",
+      "DisplayName": "AuthenticationMicroservice.DAL",
+      "ColorIndex": 12
+    },
+    "7338e0fe-5d48-4505-8757-d0630832df5e": {
+      "ProjectGuid": "7338e0fe-5d48-4505-8757-d0630832df5e",
+      "DisplayName": "AddressMicroservice.BusinessLogic",
+      "ColorIndex": 13
+    },
+    "6a650ded-57c2-463a-b97b-e34c591a1c2c": {
+      "ProjectGuid": "6a650ded-57c2-463a-b97b-e34c591a1c2c",
+      "DisplayName": "AddressMicroservice.DAL",
+      "ColorIndex": 14
+    },
+    "e3d09b9d-261a-4830-935e-58963cd1c405": {
+      "ProjectGuid": "e3d09b9d-261a-4830-935e-58963cd1c405",
+      "DisplayName": "AddressMicroservice.DTO",
+      "ColorIndex": 15
+    },
+    "e0bbdc61-f355-4c6d-b03f-4b3e3ae5e9d6": {
+      "ProjectGuid": "e0bbdc61-f355-4c6d-b03f-4b3e3ae5e9d6",
+      "DisplayName": "NameMicroservice.BusinessLogic",
+      "ColorIndex": 0
+    },
+    "967cba05-b3ac-4f23-b602-3dcf79ea6518": {
+      "ProjectGuid": "967cba05-b3ac-4f23-b602-3dcf79ea6518",
+      "DisplayName": "NameMicroservice.DAL",
+      "ColorIndex": 1
+    },
+    "685459a7-bbf5-4716-a5ec-65da38c3139b": {
+      "ProjectGuid": "685459a7-bbf5-4716-a5ec-65da38c3139b",
+      "DisplayName": "NameMicroservice.DTO",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftps://waws-prod-am2-469.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>True|2022-03-04T14:38:37.4193289Z;False|2022-03-04T20:01:56.4579416+05:30;True|2022-02-18T17:36:09.6538720+05:30;True|2022-02-18T17:01:08.5514632+05:30;False|2022-02-18T16:59:07.8058250+05:30;False|2022-02-18T16:59:01.4975476+05:30;True|2022-02-18T16:55:39.6542502+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddressMicroservice.deps.json">
+      <publishTime>03/04/2022 20:04:35</publishTime>
+    </File>
+    <File Include="AddressMicroservice.dll">
+      <publishTime>03/04/2022 20:04:34</publishTime>
+    </File>
+    <File Include="AddressMicroservice.exe">
+      <publishTime>03/04/2022 20:04:34</publishTime>
+    </File>
+    <File Include="AddressMicroservice.pdb">
+      <publishTime>03/04/2022 20:04:34</publishTime>
+    </File>
+    <File Include="AddressMicroservice.runtimeconfig.json">
+      <publishTime>02/18/2022 16:36:27</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>01/28/2022 12:46:13</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>01/28/2022 12:46:13</publishTime>
+    </File>
+    <File Include="Azure.Core.Amqp.dll">
+      <publishTime>07/07/2021 01:00:30</publishTime>
+    </File>
+    <File Include="Azure.Core.dll">
+      <publishTime>11/04/2021 05:29:22</publishTime>
+    </File>
+    <File Include="Azure.Messaging.ServiceBus.dll">
+      <publishTime>11/11/2021 02:22:30</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Amqp.dll">
+      <publishTime>09/28/2021 04:48:58</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>09/13/2019 07:58:44</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/30/2020 01:44:12</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>08/17/2021 00:52:22</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 16:54:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 16:54:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 16:54:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>08/17/2021 00:52:26</publishTime>
+    </File>
+    <File Include="SharedAzureServiceBus.dll">
+      <publishTime>03/04/2022 19:54:03</publishTime>
+    </File>
+    <File Include="SharedAzureServiceBus.pdb">
+      <publishTime>03/04/2022 19:54:03</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>10/16/2021 18:24:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>10/16/2021 18:24:36</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>10/16/2021 18:24:30</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>08/17/2021 00:44:56</publishTime>
+    </File>
+    <File Include="System.Memory.Data.dll">
+      <publishTime>04/08/2021 22:15:54</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>03/04/2022 20:04:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
